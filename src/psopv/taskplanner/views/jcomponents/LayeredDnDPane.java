@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.views.jcomponents;
 
 import java.awt.Color;
@@ -33,22 +30,10 @@ import psopv.taskplanner.views.jcomponents.BackgroundPanel.BackgroundColor;
 
 /**
  * 
- * $Rev:: 139                                                  $:  Revision of last commit<br>
- * $Author:: tom.knaepen                                       $:  Author of last commit<br>
- * $Date:: 2014-06-03 13:25:22 +0200 (Tue, 03 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * Represents a drag-and-droppable panel with different layers 
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - tom.knaepen: initial version<br>
- * 2 - tom.knaepen: adding/removing of items<br>
- * 3 - tom.knaepen: scaling<br>
  *
  * @since 10-mei-2014 16:45:46
- * @author tom.knaepen
+ * @author Tom Knaepen
  */
 public class LayeredDnDPane extends JLayeredPane implements MouseListener, MouseMotionListener, ComponentListener {
 	private Dimension						DEFAULT_SIZE	= new Dimension(832, 1000);

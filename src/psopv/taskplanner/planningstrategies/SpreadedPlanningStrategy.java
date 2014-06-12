@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.planningstrategies;
 
 import java.time.Duration;
@@ -24,20 +21,7 @@ import psopv.taskplanner.util.PlanningUtil;
 
 /**
  * 
- * $Rev:: 138                                                  $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-06-03 13:16:15 +0200 (Tue, 03 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * This is a planningstrategy which tries to spread events on the calendar
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: initial version<br>
- * 2 - martijn.theunissen: error reporting fix<br>
- * 3 - martijn.theunissen: fixed small bugs + trying to insert other tasks after failing <br>
- * 4 - martijn.theunissen: using PlanningUtil class
  *
  * @since Apr 20, 2014 7:22:13 PM
  * @author Martijn Theunissen

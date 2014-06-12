@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.planningstrategies;
 
 import java.util.ArrayList;
@@ -11,19 +8,7 @@ import psopv.taskplanner.models.TaskList;
 
 /**
  * 
- * $Rev:: 136                                                  $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-06-03 01:03:28 +0200 (Tue, 03 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * This interface defines a PlanningStrategy. 
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: initial version<br>
- * 2 - martijn.theunissen: modified interface to multiple calendars<br>
- * 3 - <br>
  *
  * @since Apr 9, 2014 3:34:21 PM
  * @author Martijn Theunissen

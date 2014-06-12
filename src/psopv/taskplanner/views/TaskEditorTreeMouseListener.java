@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.views;
 
 import java.awt.event.ActionEvent;
@@ -32,26 +29,13 @@ import be.uhasselt.oo2.mvc.Controller;
 
 /**
  * 
- * $Rev:: 140                                                  $:  Revision of last commit<br>
- * $Author:: tom.knaepen                                       $:  Author of last commit<br>
- * $Date:: 2014-06-03 14:53:39 +0200 (Tue, 03 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * Mouse listener that handles tree related stuff: 
  * Add/remove a node (tasklist/task), 
  * import/export tasklists, ...
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: initial version<br>
- * 2 - martijn.theunissen: support for multiple tasklists.<br>
- * 3 - martijn.theunissen: multilanguage support<br>
- * 4 - martijn.theunissen: task editing support + new open tasklist dialog
- * 5 - martijn.theunissen: updated translations<br>
  *
  * @since Apr 29, 2014 3:50:04 PM
  * @author Martijn Theunissen
+ * @author Tom Knaepen
  */
 public class TaskEditorTreeMouseListener extends MouseAdapter {
 

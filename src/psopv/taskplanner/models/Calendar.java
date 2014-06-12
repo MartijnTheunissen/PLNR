@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.models;
 
 import java.awt.Color;
@@ -33,22 +30,11 @@ import psopv.taskplanner.util.VEventHelper;
 
 /**
  * 
- * $Rev:: 152                                                  $:  Revision of last commit<br>
- * $Author:: tom.knaepen                                       $:  Author of last commit<br>
- * $Date:: 2014-06-05 16:17:17 +0200 (Thu, 05 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * This class represents a calendar in the application.
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: Initial placeholder version<br>
- * 2 - martijn.theunissen: Added getEvents() between starttime and duration<br>
- * 3 - martijn.theunissen: getEvents() duration bugfix<br>
- * 4 - tom.knaepen: now a list of CalendarItems instead of VEvents
- *
+ * 
  * @since Mar 14, 2014 8:57:37 PM
  * @author Martijn Theunissen
+ * @author Tom Knaepen
  */
 public class Calendar extends Observable implements Observer {
 

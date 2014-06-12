@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.models;
 
 import java.time.Duration;
@@ -9,19 +6,7 @@ import java.util.ArrayList;
 
 /**
  * 
- * $Rev:: 127                                                  $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-05-31 22:55:10 +0200 (Sat, 31 May 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * This class represents a container of time where nothing is planned in a calendar
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: initial version<br>
- * 2 - martijn.theunissen: tasklist gets a name<br>
- * 3 - <br>
  *
  * @since Apr 14, 2014 1:17:04 PM
  * @author Martijn Theunissen

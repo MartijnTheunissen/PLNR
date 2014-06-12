@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.views;
 
 import java.awt.BorderLayout;
@@ -31,20 +28,8 @@ import com.alee.laf.scroll.WebScrollPane;
 
 /**
  * 
- * $Rev:: 135                                                  $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-06-02 19:01:51 +0200 (Mon, 02 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * Task list view/editor that looks like the calendar listview.
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: initial version<br>
- * 2 - <br>
- * 3 - <br>
- *
+ * 
  * @since May 28, 2014 10:07:19 PM
  * @author Martijn Theunissen
  */

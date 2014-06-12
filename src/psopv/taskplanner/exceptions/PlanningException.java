@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.exceptions;
 
 import psopv.taskplanner.models.Calendar;
@@ -8,19 +5,7 @@ import psopv.taskplanner.models.TaskList;
 
 /**
  * 
- * $Rev:: 136                                                  $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-06-03 01:03:28 +0200 (Tue, 03 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * This error gets thrown when a task could not be planned by the taskplanner
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: initial version<br>
- * 2 - martijn.theunissen: include the planned calendar + tasklist not planned<br>
- * 3 - <br>
  *
  * @since Apr 14, 2014 8:02:04 PM
  * @author Martijn Theunissen

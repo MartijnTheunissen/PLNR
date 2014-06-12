@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.views.dialogs;
 
 import java.awt.Dimension;
@@ -33,22 +30,10 @@ import com.alee.extended.list.WebCheckBoxList;
 
 /**
  * 
- * $Rev:: 113                                                  $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-05-29 16:59:57 +0200 (Thu, 29 May 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * Planning dialog
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: initial version<br>
- * 2 - <br>
- * 3 - <br>
  *
  * @since May 11, 2014 12:47:36 AM
- * @author martijn
+ * @author Martijn Theunissen
  */
 public class PlanningDialog extends JDialog implements View, ActionListener, MouseListener {
 	private Observable					m_model;

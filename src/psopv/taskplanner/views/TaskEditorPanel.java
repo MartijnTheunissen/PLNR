@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.views;
 
 import java.awt.Dimension;
@@ -27,24 +24,7 @@ import be.uhasselt.oo2.mvc.Controller;
 
 /**
  * 
- * $Rev:: 136                                                  $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-06-03 01:03:28 +0200 (Tue, 03 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * This class represents the visual component of a taskeditor.
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: initial version<br>
- * 2 - martijn.theunissen: Empty tasklist problem solved.<br>
- * 3 - martijn.theunissen: Removing tasks allowed<br>
- * 4 - martijn.theunissen: custom general button instead of specialized class
- * 5 - martijn.theunissen: Tree Layout overhaul
- * 6 - martijn.theunissen: multiple tasklists allowed in the treeview
- * 7 - martijn.theunissen: Multilanguage support
- * 8 - martijn.theunissen: hiding individual properties
  *
  *
  * @since Mar 19, 2014 8:57:09 PM

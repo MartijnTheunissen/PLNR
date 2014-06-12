@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.views;
 
 import java.awt.BorderLayout;
@@ -56,19 +53,7 @@ import com.alee.laf.button.WebButton;
 
 /**
  * 
- * $Rev:: 152                                                  $:  Revision of last commit<br>
- * $Author:: tom.knaepen                                       $:  Author of last commit<br>
- * $Date:: 2014-06-05 16:17:17 +0200 (Thu, 05 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * Represents a calendar week (GUI)
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - tom.knaepen: initial version<br>
- * 2 - tom.knaepen: fixes to scaling, colors<br>
- * 3 - tom.knaepen: invisible calendars supported<br>
  *
  * @since 10-mei-2014 20:47:13
  * @author tom.knaepen

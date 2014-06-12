@@ -1,27 +1,11 @@
-/**
- * 
- */
 package psopv.taskplanner.config;
 
 import java.io.Serializable;
 import java.util.ArrayList;
 
 /**
+ * List of unplannable periods
  * 
- * $Rev:: 136                                                  $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-06-03 01:03:28 +0200 (Tue, 03 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
- * list of unplannable periods
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: initial version<br>
- * 2 - <br>
- * 3 - <br>
- *
  * @since May 30, 2014 6:47:03 PM
  * @author Martijn Theunissen
  */

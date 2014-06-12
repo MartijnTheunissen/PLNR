@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.io;
 
 import java.io.File;

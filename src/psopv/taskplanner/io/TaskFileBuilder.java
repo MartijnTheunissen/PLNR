@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.io;
 
 import java.io.File;
@@ -11,20 +8,8 @@ import psopv.taskplanner.models.TaskList;
 
 /**
  * 
- * $Rev:: 136                                                  $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-06-03 01:03:28 +0200 (Tue, 03 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * This interface defines what a TaskFileBuilder should do.
  * 
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: initial version<br>
- * 2 - martijn.theunissen: use File instead of filename/path/extension<br>
- * 3 - <br>
  *
  * @since Mar 13, 2014 12:31:03 PM
  * @author Martijn Theunissen

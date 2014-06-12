@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.io;
 
 import java.io.File;
@@ -15,20 +12,7 @@ import psopv.taskplanner.exceptions.CalendarIOException;
 import psopv.taskplanner.models.Calendar;
 
 /**
- * 
- * $Rev:: 113                                                  $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-05-29 16:59:57 +0200 (Thu, 29 May 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
- * This class reads an ical calendar and makes a Calendar object
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - Martijn Theunissen: initial version<br>
- * 2 - martijn.theunissen: multilanguage errors<br>
- * 3 - <br>
+ * This class reads an iCal calendar and makes a Calendar object
  *
  * @since Apr 1, 2014 2:42:25 PM
  * @author Martijn Theunissen

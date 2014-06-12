@@ -11,25 +11,11 @@ import java.util.stream.Collectors;
 
 /**
  * 
- * 
- * $Rev:: 140                                                  $:  Revision of last commit<br>
- * $Author:: tom.knaepen                                       $:  Author of last commit<br>
- * $Date:: 2014-06-03 14:53:39 +0200 (Tue, 03 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * This class represents a list of tasks.
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: Initial version<br>
- * 2 - martijn.theunissen: adding getSize() and change getTask() return type.<br>
- * 3 - martijn.theunissen: Added a filter method()<br>
- * 4 - martijn.theunissen: Added a contains() method<br>
- * 5 - martijn.theunissen: private name variable added
  *
  * @since Mar 12, 2014 8:23:03 PM
  * @author Martijn Theunissen
+ * @author Tom Knaepen
  */
 public class TaskList extends Observable implements Observer {
 

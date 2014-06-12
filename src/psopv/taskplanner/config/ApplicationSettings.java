@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.config;
 
 import java.time.Duration;
@@ -15,22 +12,11 @@ import java.util.prefs.Preferences;
 
 /**
  * 
- * $Rev:: 135                                                  $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-06-02 19:01:51 +0200 (Mon, 02 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * The main settings of the application will be stored in here.
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: initial version<br>
- * 2 - tom.knaepen: saving the settings<br>
- * 3 - martijn.theunissen: unplannable period list<br>
  *
  * @since Apr 10, 2014 9:30:04 PM
  * @author Martijn Theunissen
+ * @author Tom Knaepen
  */
 public class ApplicationSettings extends Observable {
 

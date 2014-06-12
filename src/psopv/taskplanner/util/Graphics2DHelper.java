@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.util;
 
 import java.awt.FontMetrics;
@@ -9,19 +6,7 @@ import java.awt.Polygon;
 
 /**
  * 
- * $Rev:: 58                                                   $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-04-09 17:59:10 +0200 (Wed, 09 Apr 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * Utility class for doing a number of drawing operations such as drawing triangles, Strings in a box, ...
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: initial version<br>
- * 2 - <br>
- * 3 - <br>
  *
  * @since Apr 9, 2014 4:26:32 PM
  * @author Martijn Theunissen

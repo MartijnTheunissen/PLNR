@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.views;
 
 import java.time.LocalDate;
@@ -18,22 +15,10 @@ import psopv.taskplanner.views.jcomponents.GridPanel;
 
 /**
  * 
- * $Rev:: 136                                                  $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-06-03 01:03:28 +0200 (Tue, 03 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * This class visualizes a calendar month.
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - tom.knaepen: initial version<br>
- * 2 - tom.knaepen: subclassing new GridPanel class, more (placeholder) functionality<br>
- * 3 - <br>
  *
  * @since 1-apr.-2014 18:14:00
- * @author tom.knaepen
+ * @author Tom Knaepen
  */
 public class MonthPanel extends GridPanel {
 

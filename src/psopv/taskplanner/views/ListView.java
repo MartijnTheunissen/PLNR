@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.views;
 
 import java.awt.BorderLayout;
@@ -45,22 +42,11 @@ import com.alee.laf.scroll.WebScrollPane;
 
 /**
  * 
- * $Rev:: 154                                                  $:  Revision of last commit<br>
- * $Author:: tom.knaepen                                       $:  Author of last commit<br>
- * $Date:: 2014-06-05 17:20:57 +0200 (Thu, 05 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * A list view representation of the taskplanner model
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: initial version <br>
- * 2 - tom.knaepen: minor bug fix: repaint() in updateGUI()<br>
- * 3 - <br>
  *
  * @since May 10, 2014 5:36:16 PM
- * @author martijn
+ * @author Martijn Theunissen
+ * @author Tom Knaepen
  */
 public class ListView extends WebPanel implements Observer {
 

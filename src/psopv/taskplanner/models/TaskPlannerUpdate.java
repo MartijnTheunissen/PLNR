@@ -1,23 +1,8 @@
-/**
- * 
- */
 package psopv.taskplanner.models;
 
 /**
  * 
- * $Rev:: 96                                                   $:  Revision of last commit<br>
- * $Author:: tom.knaepen                                       $:  Author of last commit<br>
- * $Date:: 2014-05-18 15:43:10 +0200 (Sun, 18 May 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * Represents an update in the task planner model
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - tom.knaepen: initial version<br>
- * 2 - tom.knaepen: changed boolean to enum, specialized updates<br>
- * 3 - <br>
  *
  * @since 11-mei-2014 14:44:53
  * @author tom.knaepen

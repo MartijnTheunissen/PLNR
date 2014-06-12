@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.views.dialogs;
 
 import java.awt.Dimension;
@@ -33,22 +30,11 @@ import com.alee.laf.text.WebTextArea;
 
 /**
  * 
- * $Rev:: 141                                                  $:  Revision of last commit<br>
- * $Author:: tom.knaepen                                       $:  Author of last commit<br>
- * $Date:: 2014-06-03 14:59:48 +0200 (Tue, 03 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * Dialog for editing tasks
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - Martijn Theunissen: initial version<br>
- * 2 - <br>
- * 3 - <br>
  *
  * @since May 20, 2014 1:18:39 PM
  * @author Martijn Theunissen
+ * @author Tom Knaepen
  */
 public class EditTaskDialog extends JDialog {
 

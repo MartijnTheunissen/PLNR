@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.models;
 
 import java.time.ZonedDateTime;
@@ -17,20 +14,8 @@ import net.fortuna.ical4j.model.property.Description;
 
 /**
  * 
- * $Rev:: 55                                                   $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-04-07 21:00:35 +0200 (Mon, 07 Apr 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * This class converts a CalendarItem to its respective ICAL4J VEVent counterpart
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: initial version <br>
- * 2 - martijn.theunissen: better conversion + timezone support<br>
- * 3 - martijn.theunissen: Summary/Description support<br>
- *
+ * 
  * @since Apr 1, 2014 1:18:35 PM
  * @author Martijn Theunissen
  */

@@ -10,23 +10,9 @@ import psopv.taskplanner.views.TaskPlannerWindow;
 import com.alee.laf.WebLookAndFeel;
 
 /**
- * 
- * 
- * $Rev:: 89                                                   $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-05-11 19:11:30 +0200 (Sun, 11 May 2014)        $:  Date of last commit<br>
  *
- * Description:	<br>
- * ------------<br>
  * This class is the main starting point of the program. It initializes the model and creates the user interface.
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: initial primitive version<br>
- * 2 - tom.knaepen: UIManager.setLookAndFeel<br>
- * 3 - martijn.theunissen: Log uncatched errors<br>
- * 4 - martijn.theunissen: multilanguage logging
- *
+ * 
  * @since Mar 12, 2014 8:10:08 PM
  * @author Martijn Theunissen
  */

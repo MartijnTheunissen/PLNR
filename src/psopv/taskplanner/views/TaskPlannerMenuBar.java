@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.views;
 
 import java.awt.event.ActionEvent;
@@ -38,20 +35,7 @@ import com.alee.managers.notification.WebNotificationPopup;
 
 /**
  * 
- * $Rev:: 150                                                  $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-06-05 14:59:58 +0200 (Thu, 05 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * This class represents the main menubar for the taskplanner window.
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: Initial version<br>
- * 2 - martijn.theunissen: calendar import/export support<br>
- * 3 - martijn.theunissen: add calendaritem + planning support<br>
- * 4 - martijn.theunissen: multilanguage support<br>
  *
  * @since Mar 20, 2014 1:49:53 PM
  * @author Martijn Theunissen

@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.config;
 
 import java.time.DayOfWeek;
@@ -10,20 +7,7 @@ import java.time.format.DateTimeFormatter;
 import java.time.format.TextStyle;
 
 /**
- * 
- * $Rev:: 127                                                  $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-05-31 22:55:10 +0200 (Sat, 31 May 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * Represents a time period where no events can be planned.
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: initial version<br>
- * 2 - <br>
- * 3 - <br>
  *
  * @since May 30, 2014 6:20:13 PM
  * @author Martijn Theunissen

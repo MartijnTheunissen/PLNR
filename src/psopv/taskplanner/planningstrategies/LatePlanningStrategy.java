@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.planningstrategies;
 
 import java.time.Duration;
@@ -24,22 +21,10 @@ import psopv.taskplanner.util.PlanningUtil;
 
 /**
  * 
- * $Rev:: 138                                                  $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-06-03 13:16:15 +0200 (Tue, 03 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
- * Planning strategy for planning tasks as late as possible
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: initial version<br>
- * 2 - martijn.theunissen: using PlanningUtil class<br>
- * 3 - <br>
+ * A planning strategy for planning tasks as late as possible
  *
  * @since May 30, 2014 3:16:40 PM
- * @author martijn
+ * @author Martijn Theunissen
  */
 public class LatePlanningStrategy implements PlanningStrategy {
 

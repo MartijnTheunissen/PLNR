@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.views.jcomponents;
 
 import java.awt.BorderLayout;
@@ -15,19 +12,7 @@ import com.alee.laf.panel.WebPanel;
 
 /**
  * 
- * $Rev:: 136                                                  $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-06-03 01:03:28 +0200 (Tue, 03 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
- * List view task
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: initial version <br>
- * 2 - <br>
- * 3 - <br>
+ * Task in the list view
  *
  * @since May 28, 2014 10:29:00 PM
  * @author Martijn Theunissen

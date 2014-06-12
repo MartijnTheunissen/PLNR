@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.util;
 
 import java.time.Duration;
@@ -20,20 +17,7 @@ import psopv.taskplanner.models.CalendarItem;
 
 /**
  * 
- * $Rev:: 113                                                  $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-05-29 16:59:57 +0200 (Thu, 29 May 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * This class helps getting basic data out of a VEvent class.
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: Initial version<br>
- * 2 - martijn.theunissen: remove every "\" out of summary + description<br>
- * 3 - martijn.theunissen: convert imported timezone to system default timezone<br>
- * 4 - martijn.theunissen: calendaritem converter
  *
  * @since Apr 7, 2014 8:52:00 PM
  * @author Martijn Theunissen

@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.views.dialogs;
 
 import java.awt.Dimension;
@@ -39,22 +36,11 @@ import com.alee.laf.text.WebTextArea;
 
 /**
  * 
- * $Rev:: 139                                                  $:  Revision of last commit<br>
- * $Author:: tom.knaepen                                       $:  Author of last commit<br>
- * $Date:: 2014-06-03 13:25:22 +0200 (Tue, 03 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * Provide a dialog for adding calendaritems.
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: initial version<br>
- * 2 - martijn.theunissen: multilanguage support<br>
- * 3 - <br>
  *
  * @since Apr 14, 2014 11:54:48 PM
  * @author Martijn Theunissen
+ * @author Tom Knaepen
  */
 public class AddCalendarItemDialog extends JDialog implements View, ActionListener {
 

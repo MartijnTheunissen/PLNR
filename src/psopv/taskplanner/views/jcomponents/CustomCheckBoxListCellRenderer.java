@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.views.jcomponents;
 
 import java.awt.Color;
@@ -16,22 +13,10 @@ import com.alee.extended.list.WebCheckBoxListCellRenderer;
 
 /**
  * 
- * $Rev:: 136                                                  $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-06-03 01:03:28 +0200 (Tue, 03 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
- * 
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - tom.knaepen: <br>
- * 2 - <br>
- * 3 - <br>
+ * Custom check box list cell renderer.
  *
  * @since 2-jun.-2014 15:34:46
- * @author tom.knaepen
+ * @author Tom Knaepen
  */
 public class CustomCheckBoxListCellRenderer extends WebCheckBoxListCellRenderer {
 

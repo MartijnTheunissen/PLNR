@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.io;
 
 import java.io.File;
@@ -15,19 +12,7 @@ import psopv.taskplanner.exceptions.CalendarIOException;
 
 /**
  * 
- * $Rev:: 75                                                   $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-05-09 19:06:43 +0200 (Fri, 09 May 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * Write a calendar to file.
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: initial version <br>
- * 2 - martijn.theunissen: setting builder to non-validating because of multiple invalid imported files.<br>
- * 3 - martijn.theunissen: multilanguage error support<br>
  *
  * @since Apr 1, 2014 2:58:43 PM
  * @author Martijn Theunissen

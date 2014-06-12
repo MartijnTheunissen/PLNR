@@ -1,27 +1,4 @@
-/**
- * 
- */
 package psopv.taskplanner.util;
-
-/**
- * 
- * $Rev:: 136                                                  $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-06-03 01:03:28 +0200 (Tue, 03 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
- * Utility methods for SpringLayout.
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - tom.knaepen: copy pasterino, utility methods for SpringLayout<br>
- * 2 - <br>
- * 3 - <br>
- *
- * @since 18-mei-2014 13:57:26
- * @author tom.knaepen
- */
 
 /*
  * Copyright (c) 1995, 2008, Oracle and/or its affiliates. All rights reserved.

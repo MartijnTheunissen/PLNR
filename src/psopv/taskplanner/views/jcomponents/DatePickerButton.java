@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.views.jcomponents;
 
 import java.awt.BorderLayout;
@@ -50,25 +47,7 @@ import com.alee.utils.SwingUtils;
  * along with WebLookAndFeel library.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-/**
- * 
- * $Rev:: 136                                                  $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-06-03 01:03:28 +0200 (Tue, 03 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
- * 
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - tom.knaepen: <br>
- * 2 - martijn.theunissen: removed desc tag for javadoc<br>
- * 3 - <br>
- *
- * @since 23-mei-2014 17:57:41
- * @author tom.knaepen
- */
+
 public class DatePickerButton extends WebButton {
 	/**
 	 * Used icons.

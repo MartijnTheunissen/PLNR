@@ -9,6 +9,12 @@ import java.awt.event.MouseMotionListener;
 
 import javax.swing.JLabel;
 
+/**
+ * Draggable label 
+ * 
+ * @author Tom Knaepen
+ *
+ */
 public class DraggableLabel extends JLabel {
 
 	private boolean			draggable	= true;

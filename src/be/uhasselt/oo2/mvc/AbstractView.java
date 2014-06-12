@@ -4,7 +4,7 @@ import java.util.Observable;
 import java.util.Observer;
 
 /**
- *
+ * Abstract View class
  * @author jvermeulen
  */
 public abstract class AbstractView implements View, Observer {

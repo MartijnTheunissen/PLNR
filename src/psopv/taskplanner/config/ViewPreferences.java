@@ -1,25 +1,9 @@
-/**
- * 
- */
 package psopv.taskplanner.config;
 
 import java.util.Observable;
 
 /**
- * 
- * $Rev:: 112                                                  $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-05-29 01:39:31 +0200 (Thu, 29 May 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * Class that keeps track of visual preferences of the gui.
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: initial version<br>
- * 2 - <br>
- * 3 - <br>
  *
  * @since May 11, 2014 6:16:35 PM
  * @author Martijn Theunissen

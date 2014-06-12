@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.views;
 
 import java.awt.BorderLayout;
@@ -32,22 +29,11 @@ import com.alee.laf.panel.WebPanel;
 
 /**
  * 
- * $Rev:: 139                                                  $:  Revision of last commit<br>
- * $Author:: tom.knaepen                                       $:  Author of last commit<br>
- * $Date:: 2014-06-03 13:25:22 +0200 (Tue, 03 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * Toolbar that lets you change views.
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: initial version<br>
- * 2 - <br>
- * 3 - <br>
  *
  * @since May 11, 2014 5:58:34 PM
  * @author Martijn Theunissen
+ * @author Tom Knaepen
  */
 public class ViewToolBar implements Observer {
 

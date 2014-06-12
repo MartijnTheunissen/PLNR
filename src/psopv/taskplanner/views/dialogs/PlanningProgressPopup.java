@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.views.dialogs;
 
 import java.awt.Dialog.ModalExclusionType;
@@ -14,22 +11,10 @@ import com.alee.utils.ThreadUtils;
 
 /**
  * 
- * $Rev:: 130                                                  $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-06-01 17:17:44 +0200 (Sun, 01 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * Dialog for showing the planning progress
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: initial version<br>
- * 2 - martijn.theunissen: updated language<br>
- * 3 - martijn.theunissen: updated translations<br>
  *
  * @since May 29, 2014 10:27:43 PM
- * @author martijn
+ * @author Martijn Theunissen
  */
 public class PlanningProgressPopup {
 

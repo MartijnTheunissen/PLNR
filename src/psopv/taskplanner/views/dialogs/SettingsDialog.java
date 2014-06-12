@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.views.dialogs;
 
 import java.awt.BorderLayout;
@@ -43,22 +40,10 @@ import com.jgoodies.forms.layout.RowSpec;
 
 /**
  * 
- * $Rev:: 150                                                  $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-06-05 14:59:58 +0200 (Thu, 05 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * A dialog to change the application settings.
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - tom.knaepen: initial version, almost finished except for timezones, DST and maybe look and feel<br>
- * 2 - martijn.theunissen: multilanguage support<br>
- * 3 - <br>
  *
  * @since 28-apr.-2014 14:32:01
- * @author tom.knaepen
+ * @author Tom Knaepen
  */
 public class SettingsDialog extends JDialog {
 

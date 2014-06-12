@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.controllers;
 
 import java.io.File;
@@ -30,22 +27,7 @@ import com.alee.managers.notification.NotificationManager;
 
 /**
  * 
- * $Rev:: 136                                                  $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-06-03 01:03:28 +0200 (Tue, 03 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
- * This controller manages the every IO aspect like import and export a tasklist or a calendar.,
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: initial version<br>
- * 2 - martijn.theunissen: ICAL Calendar IO support<br>
- * 3 - martijn.theunissen: mutliple calendar support<br>
- * 4 - martijn.theunissen: multiple task list support<br>
- * 5 - martijn.theunissen: error messages are multilanguage<br>
- * 6  - martijn.theunissen: notification support<br>
+ * This controller manages the every IO aspect like import and export a tasklist or a calendar.
  *
  * @since Mar 20, 2014 3:32:50 PM
  * @author Martijn Theunissen

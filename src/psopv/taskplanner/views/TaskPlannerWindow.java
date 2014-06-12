@@ -23,26 +23,11 @@ import com.alee.laf.rootpane.WebFrame;
 
 /**
  * 
- * $Rev:: 139                                                  $:  Revision of last commit<br>
- * $Author:: tom.knaepen                                       $:  Author of last commit<br>
- * $Date:: 2014-06-03 13:25:22 +0200 (Tue, 03 Jun 2014)        $:  Date of last commit<br>
- * 
- * Description:	<br>
- * ------------ <br> 
  * This class represents the main window of the application.
- * <br>
- * 
- * Changes: <br>
- * ------------ <br>
- * 1 - martijn.theunissen: Primitive version. <br>
- * 2 - martijn.theunissen: MenuBar added + placeholder TaskEditorPanel <br>
- * 3 - martijn.theunissen: Temporary dayview added<br>
- * 4 - martijn.theunissen: changed views<br>
- * 5 - tom.knaepen: changed views to test weekview<br>
- * 6 - martijn.theunissen: updated translations<br>
  * 
  * @since Mar 12, 2014 7:15:49 PM
  * @author Martijn Theunissen
+ * @author Tom Knaepen
  */
 public class TaskPlannerWindow extends AbstractView implements Observer, ComponentListener {
 

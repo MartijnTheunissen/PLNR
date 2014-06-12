@@ -20,30 +20,11 @@ import com.alee.managers.notification.NotificationManager;
 
 /**
  * 
- * 
- * $Rev:: 152                                                  $:  Revision of last commit<br>
- * $Author:: tom.knaepen                                       $:  Author of last commit<br>
- * $Date:: 2014-06-05 16:17:17 +0200 (Thu, 05 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * This class represents the model of the taskplanner. 
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: very early initial placeholder version.<br>
- * 2 - martijn.theunissen: support for tasklist added <br>
- * 3 - martijn.theunissen: support for calendar added<br>
- * 4 - martijn.theunissen: support for adding and removing individual task<br>
- * 4 - martijn.theunissen: support for multiple calendars<br>
- * 5 - martijn.theunissen: support for multiple tasklist.<br>
- * 6 - tom.knaepen: notifying with a TaskPlannerUpdate to determine what changed<br>
- * 7 - tom.knaepen: minor change to TaskPlannerUpdates<br>
- * 8 - martijn.theunissen: support for replacing a task<br>
- * 9  - martijn.theunissen: updated translations<br>
  *
  * @since Mar 12, 2014 8:23:37 PM
  * @author Martijn Theunissen
+ * @author Tom Knaepen
  */
 public class TaskPlannerModel extends Observable implements Observer {
 

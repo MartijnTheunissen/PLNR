@@ -21,23 +21,7 @@ import com.alee.managers.notification.NotificationManager;
 
 /**
  * 
- * 
- * $Rev:: 136                                                  $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-06-03 01:03:28 +0200 (Tue, 03 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
- * This class represents the main controller that the taskplanner will use. 
- * It can change a view directly (for example changing the order of a list)
- * It can change the model.<br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: Initial very early placeholder.<br>
- * 2 - martijn.theunissen: support for adding and removing a task<br>
- * 3 - martijn.theunissen: multiple tasklist support<br>
- * 4 - martijn.theunissen: notification support<br>
- * 5 - martijn.theunissen: updated translations
+ * This class represents the main controller of the taskplanner. 
  *
  *
  * @since Mar 12, 2014 8:07:08 PM

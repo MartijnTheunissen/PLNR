@@ -24,20 +24,7 @@ import psopv.taskplanner.util.PlanningUtil;
 
 /**
  * 
- * $Rev:: 138                                                  $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-06-03 13:16:15 +0200 (Tue, 03 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * A strategy for planning tasks as soon as possible in the timeslots.
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: initial version<br>
- * 2 - martijn.theunissen: error reporting fix<br>
- * 3 - martijn.theunissen: fixed small bugs + trying to insert other tasks after failing <br>
- * 4 - martijn.theunissen: using PlanningUtil class<br>
  *
  * @since Apr 28, 2014 11:26:15 AM
  * @author Martijn Theunissen

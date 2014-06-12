@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.views.jcomponents;
 
 import java.awt.Color;
@@ -23,22 +20,10 @@ import be.uhasselt.oo2.mvc.View;
 
 /**
  * 
- * $Rev:: 139                                                  $:  Revision of last commit<br>
- * $Author:: tom.knaepen                                       $:  Author of last commit<br>
- * $Date:: 2014-06-03 13:25:22 +0200 (Tue, 03 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
- * A CalendarItem graphical representation
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - tom.knaepen: placeholder <br>
- * 2 - tom.knaepen: changed to label, added style, observer<br>
- * 3 - <br>
+ * A CalendarItem graphical representation for the week view
  *
  * @since 11-mei-2014 00:50:50
- * @author tom.knaepen
+ * @author Tom Knaepen
  */
 public class WeekViewCalendarItem extends JLabel implements View {
 

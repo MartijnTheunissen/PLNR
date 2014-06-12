@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.views.dialogs;
 
 import java.util.ArrayList;
@@ -14,22 +11,11 @@ import psopv.taskplanner.models.TaskPlannerModel;
 
 /**
  * 
- * $Rev:: 71                                                   $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-04-30 15:55:25 +0200 (Wed, 30 Apr 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * Dialog for selecting a tasklist.
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: initial version<br>
- * 2 - martijn.theunissen: multilanguage support<br>
- * 3 - <br>
  *
  * @since Apr 30, 2014 2:00:31 PM
  * @author Martijn Theunissen
+ * @author Tom Knaepen
  */
 public class SelectTaskListDialog {
 

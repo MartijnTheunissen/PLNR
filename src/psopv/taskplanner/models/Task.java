@@ -8,24 +8,7 @@ import java.util.Observable;
 
 /**
  * 
- * 
- * $Rev:: 140                                                  $:  Revision of last commit<br>
- * $Author:: tom.knaepen                                       $:  Author of last commit<br>
- * $Date:: 2014-06-03 14:53:39 +0200 (Tue, 03 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * This class represents a task that needs to be done.
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: initial placeholder version<br>
- * 2 - martijn.theunissen: added deadline, duration, id, description and priority fields, setters and getters.<br>
- * 3 - martijn.theunissen: added name field, setter and getter<br>
- * 4 - martijn.theunissen: Changed Duration type to Duration instead of Period. <br>
- * 5 - martijn.theunissen: id fix + TimeZone support.<br>
- * 6 - martijn.theunissen: Tasks are observable<br>
- * 7 - martijn.theunissen: updated translations<br>
  *
  * @since Mar 12, 2014 8:22:18 PM
  * @author Martijn Theunissen

@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.views;
 
 import java.awt.BorderLayout;
@@ -28,22 +25,11 @@ import com.alee.laf.scroll.WebScrollPane;
 
 /**
  * 
- * $Rev:: 151                                                  $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-06-05 15:36:35 +0200 (Thu, 05 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * This is a view that represents the calendars in the application.
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: initial version<br>
- * 2 - tom.knaepen: update observer
- * 3 - martijn.theunissen: updated translations<br>
  *
  * @since May 11, 2014 4:50:21 PM
  * @author Martijn Theunissen
+ * @author Tom Knaepen
  */
 public class CalendarList implements Observer, MouseListener {
 

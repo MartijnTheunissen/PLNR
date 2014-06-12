@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.models;
 
 import java.time.Duration;
@@ -9,22 +6,11 @@ import java.util.Observable;
 
 /**
  * 
- * $Rev:: 139                                                  $:  Revision of last commit<br>
- * $Author:: tom.knaepen                                       $:  Author of last commit<br>
- * $Date:: 2014-06-03 13:25:22 +0200 (Tue, 03 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * This class represents an item in the calendar
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: initial version <br>
- * 2 - martijn.theunissen: Timezone support added<br>
- * 3 - martijn.theunissen: Summary/Description instead of name.<br>
  *
  * @since Apr 1, 2014 12:46:36 PM
  * @author Martijn Theunissen
+ * @author Tom Knaepen
  */
 public class CalendarItem extends Observable {
 

@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.views.jcomponents;
 
 import java.awt.Color;
@@ -12,22 +9,10 @@ import javax.swing.JPanel;
 
 /**
  * 
- * $Rev:: 139                                                  $:  Revision of last commit<br>
- * $Author:: tom.knaepen                                       $:  Author of last commit<br>
- * $Date:: 2014-06-03 13:25:22 +0200 (Tue, 03 Jun 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * Background panel for weekview
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - tom.knaepen: init<br>
- * 2 - martijn.theunissen: added day/hour for adding items<br>
- * 3 - tom.knaepen: working with areas instead of the whole panel<br>
  *
  * @since 23-mei-2014 15:54:46
- * @author tom.knaepen
+ * @author Tom Knaepen
  */
 public class BackgroundPanel extends JPanel {
 	public enum BackgroundColor {

@@ -4,7 +4,7 @@ import java.util.Observable;
 import java.util.Observer;
 
 /**
- *
+ * Abstract view interface
  * @author jvermeulen
  */
 public interface View extends Observer {

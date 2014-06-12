@@ -3,7 +3,7 @@ package be.uhasselt.oo2.mvc;
 import java.util.Observable;
 
 /**
- *
+ * Abstract controller class.
  * @author jvermeulen
  */
 public abstract class AbstractController implements Controller {

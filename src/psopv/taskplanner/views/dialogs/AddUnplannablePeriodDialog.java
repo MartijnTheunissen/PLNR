@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.views.dialogs;
 
 import java.awt.BorderLayout;
@@ -31,19 +28,7 @@ import com.alee.laf.spinner.WebSpinner;
 
 /**
  * 
- * $Rev:: 126                                                  $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-05-31 00:09:10 +0200 (Sat, 31 May 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
  * Dialog for adding an unplannable period dialog
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: initial version<br>
- * 2 - <br>
- * 3 - <br>
  *
  * @since May 30, 2014 8:34:27 PM
  * @author Martijn Theunissen

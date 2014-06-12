@@ -1,6 +1,3 @@
-/**
- * 
- */
 package psopv.taskplanner.views.dialogs;
 
 import java.awt.BorderLayout;
@@ -26,22 +23,10 @@ import com.alee.laf.rootpane.WebDialog;
 
 /**
  * 
- * $Rev:: 126                                                  $:  Revision of last commit<br>
- * $Author:: martijn.theunissen                                $:  Author of last commit<br>
- * $Date:: 2014-05-31 00:09:10 +0200 (Sat, 31 May 2014)        $:  Date of last commit<br>
- *
- * Description:	<br>
- * ------------<br>
- * Planning exception dialog for editting when there should not be planned
- * <br>
- * Changes:<br>
- * ------------<br>
- * 1 - martijn.theunissen: initial version<br>
- * 2 - <br>
- * 3 - <br>
+ * Planning exception dialog for specifying which periods should be held free
  *
  * @since May 30, 2014 5:18:27 PM
- * @author martijn
+ * @author Martijn Theunissen
  */
 public class PlanningExceptionSettingsDialog extends WebDialog implements Observer {
 
