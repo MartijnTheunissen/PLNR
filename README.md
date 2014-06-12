@@ -34,7 +34,7 @@ Functionality
 Installation
 ----------
 You need the Java 8 JRE to run Plnr. You can download it [here](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html).<br>
-Download the application [here](./releases/Plnr.jar) and doubleclick the file to run it.
+Download the application [here](./releases/Plnr.jar?raw=true) and doubleclick the file to run it.
 
 Roadmap
 ----------
